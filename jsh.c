@@ -20,7 +20,7 @@ void init_shell()
 	clear();
 	printf("\n\n\n\n******************"
 		"************************");
-	printf("\n\n\n\t****MY SHELL****");
+	printf("\n\n\n\t****JESSE SHELL****");
 	printf("\n\n\t-USE AT YOUR OWN RISK-");
 	printf("\n\n\n\n*******************"
 		"***********************");
@@ -133,7 +133,7 @@ void execArgsPiped(char** parsed, char** parsedpipe)
 // Help command builtin
 void openHelp()
 {
-	puts("\n***WELCOME TO MY SHELL HELP***"
+	puts("\n***WELCOME TO J SHELL HELP***"
 		"\nCopyright @ Jesse Amarquaye"
 		"\n-Use the shell at your own risk..."
 		"\nList of Commands supported:"
